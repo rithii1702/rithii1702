@@ -44,7 +44,7 @@ class RithikaShree:
 
 # 🪐 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ6eGI1dGJtbmJsdDhiM2R0cnp5YW1nYzB2Y3BnZ3E2dGh4M2l4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<img align="right" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 💜 AIML student exploring technology creatively  
 📊 Building analytics dashboards & AI projects  
