@@ -1,45 +1,71 @@
-<h1 align="center">Hi 👋, I'm Rithika Shree</h1>
-<h3 align="center">AIML Student | Data Analyst | Backend Learner</h3>
+<div align="center">
+
+# 💜 Rithika Shree
+### AIML Student • Data Analyst • Backend Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=C084FC&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Data+Analytics+Enthusiast;Learning+Flask+Backend+Development;Building+Creative+Tech+Projects" />
+
+</div>
 
 ---
 
-## 💜 About Me
-- 🎓 AIML Student
-- 📊 Passionate about Data Analytics & Visualization
-- 🧠 Learning Machine Learning & NLP
-- 🌱 Currently learning Flask Backend Development
-- ⚡ Building Tableau & Power BI Projects
+# 🌷 About Me
+
+```python
+class Rithika():
+    def __init__(self):
+        self.role = "AIML Student"
+        self.learning = ["Machine Learning", "Flask", "NLP"]
+        self.interests = ["Data Analytics", "Dashboards", "Backend Development"]
+        self.tools = ["Python", "Power BI", "Tableau"]
+```
+
+💜 Passionate about building interactive dashboards and AI-based projects  
+📊 Love creating clean visualizations and creative interfaces  
+🚀 Currently exploring Backend Development with Flask  
 
 ---
 
-## 🚀 Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,javascript,git,github,vscode" />
-</p>
+# 🛠 Tech Stack
 
-- Power BI
-- Tableau
-- Data Visualization
-- Machine Learning
-- NLP
-- REST API
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,javascript,git,github,vscode" />
+
+</div>
 
 ---
 
-## 📌 Featured Projects
-### 📊 Population Dashboard using Power BI
-Interactive dashboard analyzing global population trends.
+# 📌 Featured Project
 
-🔗 Project Link:
+## 🌍 Population Dashboard
+Interactive Power BI dashboard analyzing world population growth trends.
+
+🔗 Project Link  
 https://github.com/rithii1702/population-dashboard-powerbi
 
 ---
 
-## 📈 GitHub Stats
-![Rithika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithii1702&show_icons=true&theme=tokyonight)
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=rithii1702&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rithii1702&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-- LinkedIn: Add your LinkedIn later
-- GitHub: https://github.com/rithii1702
+# 🌸 Fun Fact
+
+> “I love mixing creativity with technology to build beautiful and meaningful projects.”
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile 💜
+
+</div>
