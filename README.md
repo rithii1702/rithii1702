@@ -1,11 +1,11 @@
 ````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:120024,50:5B2C83,100:C084FC&text=Rithika%20Shree&fontColor=ffffff&fontSize=58&fontAlign=50&fontAlignY=38&desc=AIML%20Student%20✦%20Creative%20Developer%20✦%20Data%20Storyteller&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:1A002B,50:5B2C83,100:C084FC&text=Rithika%20Shree&fontColor=ffffff&fontSize=62&fontAlign=50&fontAlignY=38&desc=✦%20AIML%20Student%20✦%20Creative%20Developer%20✦%20Data%20Storyteller%20✦&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=✦+Welcome+to+my+GitHub+Universe+✦;Artificial+Intelligence+Student+💜;Data+Analytics+Explorer+📊;Backend+Developer+in+Progress+🚀;Always+Building+Something+Creative+✨"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=✦+Welcome+to+my+Digital+Universe+✦;Artificial+Intelligence+Student+💜;Turning+Data+into+Stories+📊;Building+Creative+Tech+Projects+✨;Backend+Developer+in+Progress+🚀"/>
 
 </div>
 
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-# 🌌 rithika.exe initialized
+# 🌌 initializing_rithika.exe
 
 </div>
 
@@ -24,34 +24,55 @@ class RithikaShree:
 
         self.role = "AIML Student"
 
-        self.interests = [
+        self.focus = [
             "Machine Learning",
             "Backend Development",
             "Data Visualization",
             "Creative Technology"
         ]
 
-        self.currently_learning = [
+        self.learning = [
             "Flask",
-            "NLP",
             "REST APIs",
+            "NLP",
             "Analytics"
         ]
 
-    def dream(self):
+        self.goal = "Build meaningful and aesthetic tech experiences 💜"
 
-        return "Build beautiful and meaningful tech experiences 💜"
+    def current_status(self):
+
+        return "Learning • Building • Improving • Repeating"
 ```
 
 ---
 
 # 🪐 About Me
 
-💜 AIML student passionate about AI and creativity  
-📊 Building dashboards, analytics projects & visual stories  
-🌐 Learning backend development using Flask  
-🚀 Exploring Machine Learning and NLP  
-✨ Love mixing aesthetics with technology  
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
+
+💜 AIML student passionate about AI & creativity  
+📊 Building analytics dashboards and visual projects  
+🌐 Exploring backend development using Flask  
+🚀 Interested in Machine Learning & NLP  
+✨ Love blending aesthetics with technology  
+🧠 Focused on creating portfolio-worthy projects  
+
+</td>
+
+<td width="40%">
+
+<img width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -71,6 +92,8 @@ class RithikaShree:
 
 <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Data%20Analytics-111111?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
 </div>
 
 ---
@@ -82,7 +105,7 @@ class RithikaShree:
 [✓] Learning backend APIs
 [✓] Exploring Machine Learning
 [✓] Creating unique portfolio projects
-[ ] Becoming unstoppable
+[✓] Improving every single day
 ```
 
 ---
@@ -91,7 +114,7 @@ class RithikaShree:
 
 <div align="center">
 
-<img width="900" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:120024,50:5B2C83,100:C084FC&text=✨%20Featured%20Projects%20✨&fontColor=ffffff&fontSize=38"/>
+<img width="900" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:1A002B,50:5B2C83,100:C084FC&text=✨%20Featured%20Projects%20✨&fontColor=ffffff&fontSize=38"/>
 
 </div>
 
@@ -108,7 +131,7 @@ https://github.com/rithii1702/population-dashboard-powerbi
 
 ## 🛒 Ecommerce Sales Analysis
 
-📈 Analytics dashboard analyzing sales performance, customer trends, revenue, and profit insights.
+📈 Sales analytics dashboard analyzing revenue, profit, customer trends, and product performance.
 
 🔗 Repository  
 https://github.com/rithii1702/ecommerce-sales-analysis
@@ -131,11 +154,11 @@ https://github.com/rithii1702/ecommerce-sales-analysis
 
 ---
 
-# 🎧 Coding Mood
+# 🎧 Coding Frequency
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer+🧠;Creative+Developer+💜;Data+Storyteller+📊;Always+Learning+New+Things+✨"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer+🧠;Creative+Developer+💜;Data+Storyteller+📊;Always+Building+Something+New+✨"/>
 
 </div>
 
@@ -145,7 +168,7 @@ https://github.com/rithii1702/ecommerce-sales-analysis
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rithii1702&label=Profile%20Visitors&color=bb86fc&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=rithii1702&label=PROFILE+VISITORS&color=bb86fc&style=for-the-badge"/>
 
 </div>
 
@@ -153,13 +176,14 @@ https://github.com/rithii1702/ecommerce-sales-analysis
 
 <div align="center">
 
-## 💜 philosophy.log
+# 💜 philosophy.log
 
-> “I don’t just build projects. I build experiences.”
+> “I don’t just build projects.  
+> I build experiences.”
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:120024,50:5B2C83,100:C084FC"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1A002B,50:5B2C83,100:C084FC"/>
 
 </div>
 ````
