@@ -1,11 +1,10 @@
-````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:1A002B,50:5B2C83,100:C084FC&text=Rithika%20Shree&fontColor=ffffff&fontSize=62&fontAlign=50&fontAlignY=38&desc=✦%20AIML%20Student%20✦%20Creative%20Developer%20✦%20Data%20Storyteller%20✦&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1A002B,50:5B2C83,100:C084FC&text=Rithika%20Shree&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=38&desc=AIML%20Student%20✦%20Creative%20Developer%20✦%20Data%20Storyteller&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=✦+Welcome+to+my+Digital+Universe+✦;Artificial+Intelligence+Student+💜;Turning+Data+into+Stories+📊;Building+Creative+Tech+Projects+✨;Backend+Developer+in+Progress+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=✦+Welcome+to+my+GitHub+Universe+✦;Artificial+Intelligence+Student+💜;Turning+Data+into+Stories+📊;Backend+Developer+in+Progress+🚀;Always+Building+Something+Creative+✨"/>
 
 </div>
 
@@ -24,7 +23,7 @@ class RithikaShree:
 
         self.role = "AIML Student"
 
-        self.focus = [
+        self.skills = [
             "Machine Learning",
             "Backend Development",
             "Data Visualization",
@@ -38,11 +37,9 @@ class RithikaShree:
             "Analytics"
         ]
 
-        self.goal = "Build meaningful and aesthetic tech experiences 💜"
+    def dream(self):
 
-    def current_status(self):
-
-        return "Learning • Building • Improving • Repeating"
+        return "Build beautiful and meaningful tech experiences 💜"
 ```
 
 ---
@@ -55,12 +52,12 @@ class RithikaShree:
 <tr>
 <td width="60%">
 
-💜 AIML student passionate about AI & creativity  
-📊 Building analytics dashboards and visual projects  
-🌐 Exploring backend development using Flask  
-🚀 Interested in Machine Learning & NLP  
-✨ Love blending aesthetics with technology  
-🧠 Focused on creating portfolio-worthy projects  
+💜 AIML student passionate about AI & creativity
+📊 Building analytics dashboards and visual projects
+🌐 Exploring backend development using Flask
+🚀 Interested in Machine Learning & NLP
+✨ Love blending aesthetics with technology
+🧠 Focused on creating portfolio-worthy projects
 
 </td>
 
@@ -124,7 +121,7 @@ class RithikaShree:
 
 📊 Interactive Power BI dashboard visualizing global population growth trends and country-wise insights.
 
-🔗 Repository  
+🔗 Repository
 https://github.com/rithii1702/population-dashboard-powerbi
 
 <br>
@@ -133,7 +130,7 @@ https://github.com/rithii1702/population-dashboard-powerbi
 
 📈 Sales analytics dashboard analyzing revenue, profit, customer trends, and product performance.
 
-🔗 Repository  
+🔗 Repository
 https://github.com/rithii1702/ecommerce-sales-analysis
 
 ---
@@ -178,7 +175,7 @@ https://github.com/rithii1702/ecommerce-sales-analysis
 
 # 💜 philosophy.log
 
-> “I don’t just build projects.  
+> “I don’t just build projects.
 > I build experiences.”
 
 <br>
@@ -186,4 +183,3 @@ https://github.com/rithii1702/ecommerce-sales-analysis
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1A002B,50:5B2C83,100:C084FC"/>
 
 </div>
-````
