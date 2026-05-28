@@ -1,123 +1,29 @@
-<div align="center">
+Create a futuristic animated GitHub profile banner featuring a cute female AI robot assistant waving hello. The robot should have glowing purple neon accents, soft holographic eyes, sleek cyberpunk design, and a friendly intelligent expression. Add floating hologram screens, AI particles, coding symbols, and futuristic UI elements around her. 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Rithika%20Shree&fontAlign=50&fontAlignY=40&desc=AIML%20Student%20%7C%20Creative%20Builder%20%7C%20Data%20Storyteller&descAlignY=60&animation=fadeIn"/>
+The robot should appear as if she is greeting visitors to a developer portfolio. Include stylish glowing text saying:
 
-</div>
+“Hi, I’m Rithika 💜”
+“AIML Student | Data Analyst | Creative Developer”
 
----
+Theme should be:
+- purple + black neon aesthetic
+- futuristic cyberpunk atmosphere
+- cinematic lighting
+- modern AI lab vibe
+- soft glow effects
+- elegant and feminine but professional
+- immersive digital environment
+- animated feeling composition
+- visually attractive and unique from normal GitHub banners
 
-<div align="center">
+Background:
+dark futuristic tech environment with holographic grids, floating particles, digital rain, subtle code effects, and blurred neon city lights.
 
-### ✦ entering rithika.exe ✦
+Style:
+highly detailed, ultra realistic + semi-anime mix, smooth shading, modern futuristic illustration, clean composition for GitHub profile cover.
 
-```txt
-Loading creativity...
-Loading AI curiosity...
-Loading dashboards...
-Loading backend chaos...
-System ready 💜
-```
+Aspect Ratio:
+wide GitHub banner format (16:9)
 
-</div>
-
----
-
-# 🪐 Who Am I?
-
-```yaml
-name: Rithika Shree
-role: AIML Student
-current_focus:
-  - Machine Learning
-  - Flask Backend Development
-  - Data Visualization
-
-personality:
-  - creative thinker
-  - aesthetic builder
-  - analytical mind
-
-dream:
-  build technology that feels beautiful
-```
-
----
-
-# ⚡ Tech Universe
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,javascript,git,github,vscode"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-| 💜 Data | 🌐 Backend | 🧠 AI |
-|---|---|---|
-| Power BI | Flask | Machine Learning |
-| Tableau | REST API | NLP |
-| Visualization | Python | Analytics |
-
-</div>
-
----
-
-# 🌌 Current Mission
-
-```python
-while alive:
-    learn()
-    build()
-    improve()
-    repeat()
-```
-
-Currently building:
-- 📊 Interactive dashboards
-- 🌐 Backend mini projects
-- 🧠 AIML portfolio projects
-
----
-
-# 🎀 Featured Creation
-
-<div align="center">
-
-## 🌍 Population Analytics Dashboard
-
-A Power BI project visualizing global population growth trends with interactive storytelling and insights.
-
-🔗  
-https://github.com/rithii1702/population-dashboard-powerbi
-
-</div>
-
----
-
-# 📡 GitHub Signals
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rithii1702&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rithii1702&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💫 philosophy.log
-
-> "I don't just want to build projects.  
-> I want to create experiences."
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=4000&color=C084FC&center=true&vCenter=true&width=500&lines=AI+Learner+%F0%9F%A7%A0;Creative+Developer+%F0%9F%92%9C;Data+Storyteller+%F0%9F%93%8A;Always+Building+Something+New+%E2%9C%A8"/>
-
-</div>
+Quality:
+ultra HD, 4K, visually stunning, aesthetic, professional tech branding
