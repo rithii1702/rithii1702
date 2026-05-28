@@ -1,71 +1,123 @@
 <div align="center">
 
-# 💜 Rithika Shree
-### AIML Student • Data Analyst • Backend Learner
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=C084FC&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Data+Analytics+Enthusiast;Learning+Flask+Backend+Development;Building+Creative+Tech+Projects" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Rithika%20Shree&fontAlign=50&fontAlignY=40&desc=AIML%20Student%20%7C%20Creative%20Builder%20%7C%20Data%20Storyteller&descAlignY=60&animation=fadeIn"/>
 
 </div>
 
 ---
 
-# 🌷 About Me
+<div align="center">
 
-```python
-class Rithika():
-    def __init__(self):
-        self.role = "AIML Student"
-        self.learning = ["Machine Learning", "Flask", "NLP"]
-        self.interests = ["Data Analytics", "Dashboards", "Backend Development"]
-        self.tools = ["Python", "Power BI", "Tableau"]
+### ✦ entering rithika.exe ✦
+
+```txt
+Loading creativity...
+Loading AI curiosity...
+Loading dashboards...
+Loading backend chaos...
+System ready 💜
 ```
 
-💜 Passionate about building interactive dashboards and AI-based projects  
-📊 Love creating clean visualizations and creative interfaces  
-🚀 Currently exploring Backend Development with Flask  
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 🪐 Who Am I?
+
+```yaml
+name: Rithika Shree
+role: AIML Student
+current_focus:
+  - Machine Learning
+  - Flask Backend Development
+  - Data Visualization
+
+personality:
+  - creative thinker
+  - aesthetic builder
+  - analytical mind
+
+dream:
+  build technology that feels beautiful
+```
+
+---
+
+# ⚡ Tech Universe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,javascript,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,javascript,git,github,vscode"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 💜 Data | 🌐 Backend | 🧠 AI |
+|---|---|---|
+| Power BI | Flask | Machine Learning |
+| Tableau | REST API | NLP |
+| Visualization | Python | Analytics |
 
 </div>
 
 ---
 
-# 📌 Featured Project
+# 🌌 Current Mission
 
-## 🌍 Population Dashboard
-Interactive Power BI dashboard analyzing world population growth trends.
+```python
+while alive:
+    learn()
+    build()
+    improve()
+    repeat()
+```
 
-🔗 Project Link  
+Currently building:
+- 📊 Interactive dashboards
+- 🌐 Backend mini projects
+- 🧠 AIML portfolio projects
+
+---
+
+# 🎀 Featured Creation
+
+<div align="center">
+
+## 🌍 Population Analytics Dashboard
+
+A Power BI project visualizing global population growth trends with interactive storytelling and insights.
+
+🔗  
 https://github.com/rithii1702/population-dashboard-powerbi
 
+</div>
+
 ---
 
-# 📈 GitHub Stats
+# 📡 GitHub Signals
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=rithii1702&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rithii1702&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rithii1702&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rithii1702&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌸 Fun Fact
-
-> “I love mixing creativity with technology to build beautiful and meaningful projects.”
-
----
-
 <div align="center">
 
-### 💜 Thanks for visiting my profile 💜
+## 💫 philosophy.log
+
+> "I don't just want to build projects.  
+> I want to create experiences."
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=4000&color=C084FC&center=true&vCenter=true&width=500&lines=AI+Learner+%F0%9F%A7%A0;Creative+Developer+%F0%9F%92%9C;Data+Storyteller+%F0%9F%93%8A;Always+Building+Something+New+%E2%9C%A8"/>
 
 </div>
