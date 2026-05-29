@@ -30,8 +30,8 @@
 
 <br/>
 
-📬 &nbsp; **rithikashreeb17@gmail.com**
-🔗 &nbsp; **[linkedin.com/in/rithikashree-b](https://linkedin.com/in/rithikashree-b)**
+📬 &nbsp; **rithii1702@gmail.com**
+🔗 &nbsp; **https://www.linkedin.com/in/b-rithika-shree-45b393353**
 
 <br clear="right"/>
 
@@ -195,11 +195,11 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/rithikashree-b">
+<a href="https://www.linkedin.com/in/b-rithika-shree-45b393353">
 <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect+with+me" />
 </a>
 &nbsp;
-<a href="mailto:rithikashreeb17@gmail.com">
+<a href="mailto:rithii1702@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&label=rithikashreeb17" />
 </a>
 &nbsp;
