@@ -126,14 +126,6 @@ https://github.com/rithii1702/population-dashboard-powerbi
 
 <br>
 
-## 🛒 Ecommerce Sales Analysis
-
-📈 Sales analytics dashboard analyzing revenue, profit, customer trends, and product performance.
-
-🔗 Repository
-https://github.com/rithii1702/ecommerce-sales-analysis
-
----
 
 # 📡 GitHub Universe
 
