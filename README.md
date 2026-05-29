@@ -21,6 +21,7 @@ class RithikaShree:
 
     def __init__(self):
 
+        self.name = "Rithika Shree"
         self.role = "AIML Student"
 
         self.skills = [
@@ -40,3 +41,192 @@ class RithikaShree:
     def dream(self):
 
         return "Build beautiful and meaningful tech experiences 💜"
+```
+
+---
+
+# 🪐 About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
+
+💜 AIML Student passionate about AI & creativity <br>
+📊 Building analytics dashboards and visual projects <br>
+🌐 Exploring backend development using Flask <br>
+🚀 Interested in Machine Learning & NLP <br>
+✨ Love blending aesthetics with technology <br>
+🧠 Focused on creating portfolio-worthy projects
+
+</td>
+
+<td width="40%">
+
+<img width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,javascript,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-111111?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
+</div>
+
+---
+
+# 🌠 Current Mission
+
+```txt
+[✓] Building creative dashboards
+[✓] Learning backend APIs
+[✓] Exploring Machine Learning
+[✓] Creating unique portfolio projects
+[✓] Improving every single day
+```
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<img width="900" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:1A002B,50:5B2C83,100:C084FC&text=✨%20Featured%20Projects%20✨&fontColor=ffffff&fontSize=38"/>
+
+</div>
+
+<br>
+
+## 🌍 Population Analytics Dashboard
+
+📊 Interactive Power BI dashboard visualizing global population growth trends and country-wise insights.
+
+🔗 Repository  
+https://github.com/rithii1702/population-dashboard-powerbi
+
+<br><br>
+
+## 🍕 Pizza Sales Analytics Dashboard
+
+📊 Interactive Power BI dashboard analyzing pizza sales performance, revenue trends, customer ordering behavior, and top-selling pizza categories.
+
+✨ Key Highlights
+
+✔ Revenue Analysis Dashboard  
+✔ Best Selling & Worst Selling Pizzas  
+✔ Daily & Monthly Sales Trends  
+✔ Interactive Business Insights  
+✔ KPI Cards & Visual Storytelling
+
+🛠 Technologies Used
+
+• Power BI  
+• Data Analytics  
+• Business Intelligence  
+• Data Visualization
+
+🔗 Repository  
+https://github.com/rithii1702/pizza-sales-dashboard
+
+<br>
+
+<div align="center">
+
+<img width="700" src="https://media.tenor.com/XV0t1XKyM9AAAAAC/pizza-pizza-time.gif"/>
+
+</div>
+
+---
+
+# 📡 GitHub Universe
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rithii1702&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rithii1702&theme=midnight-purple&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rithii1702&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎧 Coding Frequency
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer+🧠;Creative+Developer+💜;Data+Storyteller+📊;Backend+Developer+🚀;Always+Building+Something+New+✨"/>
+
+</div>
+
+---
+
+# 🌌 Dream Projects
+
+```yaml
+AI Projects:
+  - Resume Analyzer
+  - Student Performance Predictor
+  - NLP Chatbot
+  - Recommendation System
+
+Analytics Projects:
+  - Pizza Sales Dashboard
+  - Population Analytics Dashboard
+  - Ecommerce Sales Analysis
+  - Crop Yield Analytics
+
+Backend Projects:
+  - Flask Student API
+  - Authentication System
+  - Portfolio Backend
+```
+
+---
+
+# ✨ Visitor Portal
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rithii1702&label=PROFILE+VISITORS&color=bb86fc&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💜 philosophy.log
+
+> "I don't just build projects.  
+> I build experiences."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1A002B,50:5B2C83,100:C084FC"/>
+
+</div>
