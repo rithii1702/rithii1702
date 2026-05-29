@@ -122,6 +122,20 @@ class RithikaShree:
 
 📊 Interactive Power BI dashboard visualizing global population growth trends and country-wise insights.
 
+✨ Features
+
+✔ Population Growth Analysis  
+✔ Country-wise Comparison  
+✔ Interactive Visual Reports  
+✔ KPI Cards & Trends  
+✔ Data Storytelling Dashboard
+
+🛠 Technologies Used
+
+• Power BI  
+• Data Analytics  
+• Data Visualization
+
 🔗 Repository  
 https://github.com/rithii1702/population-dashboard-powerbi
 
@@ -131,29 +145,65 @@ https://github.com/rithii1702/population-dashboard-powerbi
 
 📊 Interactive Power BI dashboard analyzing pizza sales performance, revenue trends, customer ordering behavior, and top-selling pizza categories.
 
-✨ Key Highlights
+✨ Features
 
 ✔ Revenue Analysis Dashboard  
 ✔ Best Selling & Worst Selling Pizzas  
 ✔ Daily & Monthly Sales Trends  
-✔ Interactive Business Insights  
-✔ KPI Cards & Visual Storytelling
+✔ KPI Cards & Business Insights  
+✔ Interactive Filtering System
 
 🛠 Technologies Used
 
 • Power BI  
-• Data Analytics  
 • Business Intelligence  
+• Data Analytics  
 • Data Visualization
 
 🔗 Repository  
 https://github.com/rithii1702/pizza-sales-dashboard
 
+<br><br>
+
+## 🛒 E-Commerce Sales Analysis Dashboard
+
+📊 Advanced Power BI dashboard designed to analyze sales performance, profit trends, customer segments, regional sales distribution, and category-wise business insights.
+
+✨ Features
+
+✔ Total Sales & Profit Analysis  
+✔ Profit Margin Tracking  
+✔ Order & Quantity Monitoring  
+✔ State-wise Sales Visualization Map  
+✔ Top 10 Product Sub-Categories Analysis  
+✔ Category-wise Profit Comparison  
+✔ Interactive Filters for Year, Region & Segment  
+✔ Business Intelligence Storytelling Dashboard
+
+📈 Dashboard Insights
+
+• Sales: $7,06,146+  
+• Profit: $91,979+  
+• Orders: 3020+  
+• Quantity Sold: 11,608+  
+• Profit Margin: 13%
+
+🛠 Technologies Used
+
+• Power BI  
+• Business Intelligence  
+• Data Analytics  
+• Dashboard Design  
+• Data Visualization
+
+🔗 Project Link  
+https://1drv.ms/x/c/9b5bc6c96ac465a6/IQCvXeL-Y971RJVdmSoiFDFFAY4gxK3_gwjWPPbnq0sR36k?e=idYNzA
+
 <br>
 
 <div align="center">
 
-<img width="700" src="https://media.tenor.com/XV0t1XKyM9AAAAAC/pizza-pizza-time.gif"/>
+<img width="750" src="https://media.tenor.com/3bTxZL0R4eQAAAAC/data-data-analysis.gif"/>
 
 </div>
 
