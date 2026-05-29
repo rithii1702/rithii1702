@@ -58,25 +58,64 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<br/>
+
+### 🌍 Population Analytics Dashboard
 
 <a href="https://github.com/rithii1702/population-dashboard-powerbi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rithii1702&repo=population-dashboard-powerbi&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=7DF9FF&icon_color=4FACFE&text_color=B8F4FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rithii1702&repo=population-dashboard-powerbi&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=7DF9FF&icon_color=4FACFE&text_color=B8F4FF&description_lines_count=2" />
 </a>
+
+> 📊 &nbsp; Interactive **Power BI** dashboard visualizing global population growth trends, country-wise comparisons and KPI storytelling.
+
+<div>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/DAX-0F2027?style=flat-square&logoColor=7DF9FF" />
+<img src="https://img.shields.io/badge/Data%20Modeling-2C5364?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/KPI%20Design-203A43?style=flat-square&logoColor=white" />
 &nbsp;&nbsp;
+<a href="https://github.com/rithii1702/population-dashboard-powerbi"><img src="https://img.shields.io/badge/View%20Project-7DF9FF?style=flat-square&logo=github&logoColor=0F2027" /></a>
+</div>
+
+<br/>
+
+---
+
+### 🍕 Pizza Sales Analytics Dashboard
+
 <a href="https://github.com/rithii1702/pizza-sales-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rithii1702&repo=pizza-sales-dashboard&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=7DF9FF&icon_color=4FACFE&text_color=B8F4FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rithii1702&repo=pizza-sales-dashboard&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=7DF9FF&icon_color=4FACFE&text_color=B8F4FF&description_lines_count=2" />
 </a>
 
-<br/><br/>
+> 🍕 &nbsp; Deep-dive **Power BI** dashboard uncovering revenue trends, best-selling pizzas, peak hours & customer behaviour insights.
 
-| ✦ | Project | Description | Tools |
-|:--:|:--------|:------------|:------|
-| 🌍 | **Population Analytics** | Global growth trends & country KPIs | Power BI · DAX |
-| 🍕 | **Pizza Sales Dashboard** | Revenue, best-sellers & customer trends | Power BI · SQL · Excel |
-| 🛒 | **E-Commerce Dashboard** | Sales, profit & segment performance | Excel · Power Query |
-
+<div>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4FACFE?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Sales%20Analytics-2C5364?style=flat-square&logoColor=white" />
+&nbsp;&nbsp;
+<a href="https://github.com/rithii1702/pizza-sales-dashboard"><img src="https://img.shields.io/badge/View%20Project-7DF9FF?style=flat-square&logo=github&logoColor=0F2027" /></a>
 </div>
+
+<br/>
+
+---
+
+### 🛒 E-Commerce Sales Dashboard
+
+> 🛍️ &nbsp; Comprehensive **Excel** dashboard tracking sales performance, profit margins, state-wise maps & customer segment KPIs.
+
+<div>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Query-0F2027?style=flat-square&logoColor=7DF9FF" />
+<img src="https://img.shields.io/badge/Charts%20%26%20Visuals-2C5364?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Profit%20Analysis-203A43?style=flat-square&logoColor=white" />
+&nbsp;&nbsp;
+<a href="https://1drv.ms/x/c/9b5bc6c96ac465a6/IQCvXeL-Y971RJVdmSoiFDFFAY4gxK3_gwjWPPbnq0sR36k?e=idYNzA"><img src="https://img.shields.io/badge/View%20Project-7DF9FF?style=flat-square&logo=microsoftonedrive&logoColor=0F2027" /></a>
+</div>
+
+<br/>
 
 ---
 
