@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1A002B,50:5B2C83,100:C084FC&text=Rithika%20Shree&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=38&desc=AIML%20Student%20✦%20Creative%20Developer%20✦%20Data%20Storyteller&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0F0C29,50:302B63,100:8E2DE2&text=Rithika%20Shree&fontColor=ffffff&fontSize=65&fontAlign=50&fontAlignY=38&desc=AI%20Dreamer%20✦%20Creative%20Developer%20✦%20Data%20Storyteller&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=✦+Welcome+to+my+GitHub+Universe+✦;Artificial+Intelligence+Student+💜;Turning+Data+into+Stories+📊;Backend+Developer+in+Progress+🚀;Always+Building+Something+Creative+✨"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=💜+Welcome+to+Rithika's+Digital+Universe;AIML+Student+Building+Creative+Tech;Turning+Ideas+into+Interactive+Experiences;Machine+Learning+✦+Analytics+✦+Backend;Designing+Projects+That+Actually+Feel+Alive+✨"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AIML-STUDENT-C084FC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/POWER%20BI-DASHBOARDS-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/FLASK-BACKEND-black?style=for-the-badge&logo=flask"/>
+
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 🌌 initializing_rithika.exe
-
-</div>
+# 🌌 whoami.exe
 
 ```python
 class RithikaShree:
@@ -24,28 +30,32 @@ class RithikaShree:
         self.name = "Rithika Shree"
         self.role = "AIML Student"
 
-        self.skills = [
+        self.current_focus = [
             "Machine Learning",
             "Backend Development",
-            "Data Visualization",
+            "Data Analytics",
             "Creative Technology"
         ]
 
-        self.learning = [
+        self.tools = [
+            "Python",
             "Flask",
-            "REST APIs",
-            "NLP",
-            "Analytics"
+            "Power BI",
+            "Tableau",
+            "GitHub",
+            "VS Code"
         ]
 
-    def dream(self):
+        self.mindset = "Build. Learn. Improve. Repeat."
 
-        return "Build beautiful and meaningful tech experiences 💜"
+    def life_goal(self):
+
+        return "Create technology that feels meaningful 💜"
 ```
 
 ---
 
-# 🪐 About Me
+# 🌠 About Me
 
 <div align="center">
 
@@ -53,18 +63,21 @@ class RithikaShree:
 <tr>
 <td width="60%">
 
-💜 AIML Student passionate about AI & creativity <br>
-📊 Building analytics dashboards and visual projects <br>
-🌐 Exploring backend development using Flask <br>
-🚀 Interested in Machine Learning & NLP <br>
-✨ Love blending aesthetics with technology <br>
-🧠 Focused on creating portfolio-worthy projects
+### 💜 Hey, I'm Rithika
+
+✨ AIML student exploring the world of AI and intelligent systems  
+📊 Building interactive dashboards & analytics projects  
+🌐 Learning backend development using Flask & APIs  
+🚀 Passionate about Machine Learning and NLP  
+🎨 Love mixing creativity with technology  
+🧠 Focused on building portfolio-worthy projects  
+💡 Always experimenting with something new
 
 </td>
 
 <td width="40%">
 
-<img width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 </td>
 </tr>
@@ -74,7 +87,7 @@ class RithikaShree:
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Galaxy
 
 <div align="center">
 
@@ -86,25 +99,13 @@ class RithikaShree:
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Data%20Analytics-111111?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Creative%20Coding-C084FC?style=for-the-badge"/>
+
 </div>
-
----
-
-# 🌠 Current Mission
-
-```txt
-[✓] Building creative dashboards
-[✓] Learning backend APIs
-[✓] Exploring Machine Learning
-[✓] Creating unique portfolio projects
-[✓] Improving every single day
-```
 
 ---
 
@@ -112,100 +113,72 @@ class RithikaShree:
 
 <div align="center">
 
-<img width="900" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:1A002B,50:5B2C83,100:C084FC&text=✨%20Featured%20Projects%20✨&fontColor=ffffff&fontSize=38"/>
+<img width="900" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0F0C29,50:302B63,100:8E2DE2&text=✨%20PROJECT%20UNIVERSE%20✨&fontColor=ffffff&fontSize=40"/>
 
 </div>
 
-<br>
+---
 
 ## 🌍 Population Analytics Dashboard
 
-📊 Interactive Power BI dashboard visualizing global population growth trends and country-wise insights.
+📊 Interactive Power BI dashboard analyzing global population trends and country-wise growth patterns.
 
 ✨ Features
 
-✔ Population Growth Analysis  
-✔ Country-wise Comparison  
-✔ Interactive Visual Reports  
-✔ KPI Cards & Trends  
-✔ Data Storytelling Dashboard
+✔ Growth Trend Analysis  
+✔ Interactive Dashboard  
+✔ Country Comparison  
+✔ KPI Cards & Insights  
+✔ Visual Storytelling
 
-🛠 Technologies Used
+🛠 Tech Used
 
-• Power BI  
-• Data Analytics  
-• Data Visualization
+`Power BI` • `Analytics` • `Data Visualization`
 
 🔗 Repository  
 https://github.com/rithii1702/population-dashboard-powerbi
 
-<br><br>
+---
 
 ## 🍕 Pizza Sales Analytics Dashboard
 
-📊 Interactive Power BI dashboard analyzing pizza sales performance, revenue trends, customer ordering behavior, and top-selling pizza categories.
+📊 A visually interactive dashboard analyzing pizza sales, revenue trends, and customer ordering behavior.
 
 ✨ Features
 
-✔ Revenue Analysis Dashboard  
-✔ Best Selling & Worst Selling Pizzas  
-✔ Daily & Monthly Sales Trends  
-✔ KPI Cards & Business Insights  
-✔ Interactive Filtering System
+✔ Revenue & Profit Analysis  
+✔ Best Selling Pizzas  
+✔ Sales Trend Visualization  
+✔ Interactive Filtering  
+✔ KPI Dashboard
 
-🛠 Technologies Used
+🛠 Tech Used
 
-• Power BI  
-• Business Intelligence  
-• Data Analytics  
-• Data Visualization
+`Power BI` • `Business Intelligence` • `Data Analytics`
 
 🔗 Repository  
 https://github.com/rithii1702/pizza-sales-dashboard
 
-<br><br>
+---
 
 ## 🛒 E-Commerce Sales Analysis Dashboard
 
-📊 Advanced Power BI dashboard designed to analyze sales performance, profit trends, customer segments, regional sales distribution, and category-wise business insights.
+📊 Advanced sales dashboard analyzing profit trends, customer segments, sales distribution, and category performance.
 
 ✨ Features
 
-✔ Total Sales & Profit Analysis  
-✔ Profit Margin Tracking  
-✔ Order & Quantity Monitoring  
-✔ State-wise Sales Visualization Map  
-✔ Top 10 Product Sub-Categories Analysis  
-✔ Category-wise Profit Comparison  
-✔ Interactive Filters for Year, Region & Segment  
-✔ Business Intelligence Storytelling Dashboard
+✔ Sales & Profit Tracking  
+✔ State-wise Sales Map  
+✔ Category-wise Analysis  
+✔ Top 10 Sub-Categories  
+✔ Interactive Business Insights
 
-📈 Dashboard Insights
+🛠 Tech Used
 
-• Sales: $7,06,146+  
-• Profit: $91,979+  
-• Orders: 3020+  
-• Quantity Sold: 11,608+  
-• Profit Margin: 13%
-
-🛠 Technologies Used
-
-• Power BI  
-• Business Intelligence  
-• Data Analytics  
-• Dashboard Design  
-• Data Visualization
+`Power BI` • `Dashboard Design` • `Data Analytics`
 
 🔗 Project Link  
 https://1drv.ms/x/c/9b5bc6c96ac465a6/IQCvXeL-Y971RJVdmSoiFDFFAY4gxK3_gwjWPPbnq0sR36k?e=idYNzA
-
-<br>
-
-<div align="center">
-
-<img width="750" src="https://media.tenor.com/3bTxZL0R4eQAAAAC/data-data-analysis.gif"/>
-
-</div>
 
 ---
 
@@ -213,9 +186,9 @@ https://1drv.ms/x/c/9b5bc6c96ac465a6/IQCvXeL-Y971RJVdmSoiFDFFAY4gxK3_gwjWPPbnq0s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rithii1702&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rithii1702&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rithii1702&theme=midnight-purple&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rithii1702&theme=midnight-purple&hide_border=true"/>
 
 <br><br>
 
@@ -225,44 +198,48 @@ https://1drv.ms/x/c/9b5bc6c96ac465a6/IQCvXeL-Y971RJVdmSoiFDFFAY4gxK3_gwjWPPbnq0s
 
 ---
 
-# 🎧 Coding Frequency
+# 🌌 Current Quest
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer+🧠;Creative+Developer+💜;Data+Storyteller+📊;Backend+Developer+🚀;Always+Building+Something+New+✨"/>
-
-</div>
-
----
-
-# 🌌 Dream Projects
-
-```yaml
-AI Projects:
-  - Resume Analyzer
-  - Student Performance Predictor
-  - NLP Chatbot
-  - Recommendation System
-
-Analytics Projects:
-  - Pizza Sales Dashboard
-  - Population Analytics Dashboard
-  - Ecommerce Sales Analysis
-  - Crop Yield Analytics
-
-Backend Projects:
-  - Flask Student API
-  - Authentication System
-  - Portfolio Backend
+```txt
+> Learning Flask APIs...
+> Building ML Projects...
+> Designing Creative Dashboards...
+> Improving Problem Solving...
+> Creating A Powerful Portfolio...
 ```
 
 ---
 
-# ✨ Visitor Portal
+# 🎧 Coding Frequency
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rithii1702&label=PROFILE+VISITORS&color=bb86fc&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Machine+Learning+Explorer+🧠;Creative+Developer+💜;Backend+Builder+🚀;Data+Storyteller+📊;Future+AI+Engineer+✨"/>
+
+</div>
+
+---
+
+# 🌙 Dev Philosophy
+
+<div align="center">
+
+```txt
+Code with logic.
+Build with creativity.
+Learn with consistency.
+Grow with patience.
+```
+
+</div>
+
+---
+
+# ✨ Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rithii1702&label=PROFILE+VISITORS&color=C084FC&style=for-the-badge"/>
 
 </div>
 
@@ -270,13 +247,13 @@ Backend Projects:
 
 <div align="center">
 
-# 💜 philosophy.log
+# 💜 final_thoughts.txt
 
-> "I don't just build projects.  
-> I build experiences."
+> “I don’t just create projects.  
+> I create experiences that people remember.”
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1A002B,50:5B2C83,100:C084FC"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F0C29,50:302B63,100:8E2DE2"/>
 
 </div>
