@@ -30,8 +30,8 @@
 
 <br/>
 
-📬 &nbsp; **rithikashreeb17@gmail.com**
-🔗 &nbsp; **[linkedin.com/in/rithikashree-b](https://linkedin.com/in/rithikashree-b)**
+📬 &nbsp; **rithii1702@gmail.com**
+🔗 &nbsp; **https://www.linkedin.com/in/b-rithika-shree-45b393353**
 
 <br clear="right"/>
 
