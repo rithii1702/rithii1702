@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img align="right" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 </div>
 
@@ -61,8 +61,6 @@ class RithikaShree:
 💡 Focused on professional portfolio projects  
 💜 Love blending creativity with technology  
 
-<br>
-
 ---
 
 # ⚡ Tech Stack
@@ -83,6 +81,10 @@ class RithikaShree:
 
 <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
 
+<br><br>
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=python,Python,3776AB;flask,Flask,000000;mysql,MySQL,4479A1;javascript,JavaScript,F7DF1E;&line2=powerbi,PowerBI,F2C811;tableau,Tableau,E97627;git,Git,F05032;github,GitHub,ffffff;"/>
+
 </div>
 
 ---
@@ -99,6 +101,12 @@ class RithikaShree:
 
 ## 🌍 Population Analytics Dashboard
 
+<div align="center">
+
+<img width="750" src="https://media.tenor.com/3bTxZL0R4eQAAAAC/data-data-analysis.gif"/>
+
+</div>
+
 📊 Interactive Power BI dashboard visualizing global population growth trends and country-wise insights.
 
 ✔ Population Growth Analysis  
@@ -113,6 +121,12 @@ https://github.com/rithii1702/population-dashboard-powerbi
 
 ## 🍕 Pizza Sales Analytics Dashboard
 
+<div align="center">
+
+<img width="500" src="https://media.tenor.com/XV0t1XKyM9AAAAAC/pizza-pizza-time.gif"/>
+
+</div>
+
 📊 Power BI dashboard analyzing pizza sales performance, revenue trends, and customer insights.
 
 ✔ Revenue Analysis  
@@ -126,6 +140,12 @@ https://github.com/rithii1702/pizza-sales-dashboard
 ---
 
 ## 🛒 E-Commerce Sales Analysis Dashboard
+
+<div align="center">
+
+<img width="700" src="https://media.tenor.com/Jw7x9Kdnp7IAAAAC/online-shopping.gif"/>
+
+</div>
 
 📊 Dashboard analyzing sales, profit, customer segments, and category performance.
 
@@ -151,6 +171,10 @@ https://1drv.ms/x/c/9b5bc6c96ac465a6/IQCvXeL-Y971RJVdmSoiFDFFAY4gxK3_gwjWPPbnq0s
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rithii1702&theme=tokyo-night&hide_border=true"/>
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rithii1702&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
 </div>
 
 ---
@@ -159,9 +183,31 @@ https://1drv.ms/x/c/9b5bc6c96ac465a6/IQCvXeL-Y971RJVdmSoiFDFFAY4gxK3_gwjWPPbnq0s
 
 <div align="center">
 
+<img width="450" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Building+Creative+Dashboards+📊;Learning+Backend+Development+🚀;Exploring+Machine+Learning+🧠;Creating+Professional+Projects+✨"/>
 
 </div>
+
+---
+
+# 🌌 Learning Journey
+
+```yaml
+Currently Learning:
+  - Flask Backend Development
+  - REST APIs
+  - Machine Learning
+  - NLP
+  - Dashboard Design
+
+Future Goals:
+  - Become ML Engineer
+  - Build AI Applications
+  - Create Creative Tech Products
+```
 
 ---
 
